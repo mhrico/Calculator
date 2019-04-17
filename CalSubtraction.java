@@ -1,5 +1,4 @@
-public class Calculator {
-    
+Public class CalSubtraction {
     public static void main(String[] args) {
         
     }
