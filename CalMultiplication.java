@@ -1,10 +1,13 @@
-public class CalMultiplication{
+public class CalMultiplication {
+
 	int result;
-	CalMultiplication(int a,int b){
-		result = a * b;
+	CalMultiplication(int firstNumber, int secondNumber) {
+
+		result = firstNumber * secondNumber;
 	}
 
-	void printResult(){
-		System.out.pirntln("The result of multiplication is : " + result);
+	int multiplication() {
+
+		return result;
 	}
 }
